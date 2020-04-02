@@ -89,3 +89,5 @@ Under Spatial->Transform, set Translation->x: 0.2, y: -0.15, z: -0.3. Set Rotati
 If you run the game again, you should now be holding a blue gun.
 
 Save and commit your changes, Push the repository back to GitHub, and turn in a link to your repository on Canvas.
+
+Assignment Completed.
